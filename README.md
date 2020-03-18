@@ -1,2 +1,2 @@
 # kalkulacka
-Projekt IVS, kalkulacka v jazyku C s GUI
+Projekt IVS, kalkulacka v jazyce C s GUI
